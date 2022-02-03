@@ -1,0 +1,1 @@
+alert("Hello there, Welcome to my contribution to the QR-code challenge");
